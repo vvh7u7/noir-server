@@ -1,8 +1,0 @@
-/home/hvv7u7/Projects/noir-server/build/CMakeFiles/edit_cache.dir
-/home/hvv7u7/Projects/noir-server/build/CMakeFiles/rebuild_cache.dir
-/home/hvv7u7/Projects/noir-server/build/libs/noir-protocol/CMakeFiles/NoirProtocol.dir
-/home/hvv7u7/Projects/noir-server/build/libs/noir-protocol/CMakeFiles/edit_cache.dir
-/home/hvv7u7/Projects/noir-server/build/libs/noir-protocol/CMakeFiles/rebuild_cache.dir
-/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir
-/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/edit_cache.dir
-/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/rebuild_cache.dir
