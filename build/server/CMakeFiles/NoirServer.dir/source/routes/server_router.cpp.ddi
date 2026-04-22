@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "server/CMakeFiles/NoirServer.dir/source/routes/server_router.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

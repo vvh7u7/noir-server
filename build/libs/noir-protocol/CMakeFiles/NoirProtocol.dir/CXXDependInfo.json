@@ -1,0 +1,35 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/hvv7u7/Projects/noir-server/build/libs/noir-protocol",
+	"dir-cur-src" : "/home/hvv7u7/Projects/noir-server/libs/noir-protocol",
+	"dir-top-bld" : "/home/hvv7u7/Projects/noir-server/build",
+	"dir-top-src" : "/home/hvv7u7/Projects/noir-server",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/hvv7u7/Projects/noir-server/build/libs/noir-protocol/CMakeFiles/NoirProtocol.dir",
+	"sources" : 
+	{
+		"libs/noir-protocol/CMakeFiles/NoirProtocol.dir/source/codec/deserializer.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/libs/noir-protocol/source/codec/deserializer.cpp"
+		},
+		"libs/noir-protocol/CMakeFiles/NoirProtocol.dir/source/codec/serializer.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/libs/noir-protocol/source/codec/serializer.cpp"
+		}
+	}
+}

@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=libs/noir-protocol/CMakeFiles/NoirProtocol.dir/source/codec/serializer.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o libs/noir-protocol/CMakeFiles/NoirProtocol.dir/source/codec/serializer.cpp.o -c /home/hvv7u7/Projects/noir-server/libs/noir-protocol/source/codec/serializer.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/libs/noir-protocol/source/codec/serializer.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/libs/noir-protocol/CMakeFiles/NoirProtocol.dir/source/codec/serializer.cpp.o"
+},
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=libs/noir-protocol/CMakeFiles/NoirProtocol.dir/source/codec/deserializer.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o libs/noir-protocol/CMakeFiles/NoirProtocol.dir/source/codec/deserializer.cpp.o -c /home/hvv7u7/Projects/noir-server/libs/noir-protocol/source/codec/deserializer.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/libs/noir-protocol/source/codec/deserializer.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/libs/noir-protocol/CMakeFiles/NoirProtocol.dir/source/codec/deserializer.cpp.o"
+},
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/hvv7u7/Projects/noir-server/server/include -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=server/CMakeFiles/NoirServer.dir/source/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o server/CMakeFiles/NoirServer.dir/source/main.cpp.o -c /home/hvv7u7/Projects/noir-server/server/source/main.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/server/source/main.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir/source/main.cpp.o"
+},
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/hvv7u7/Projects/noir-server/server/include -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=server/CMakeFiles/NoirServer.dir/source/services/auth_service.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o server/CMakeFiles/NoirServer.dir/source/services/auth_service.cpp.o -c /home/hvv7u7/Projects/noir-server/server/source/services/auth_service.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/server/source/services/auth_service.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir/source/services/auth_service.cpp.o"
+},
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/hvv7u7/Projects/noir-server/server/include -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=server/CMakeFiles/NoirServer.dir/source/services/chat_service.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o server/CMakeFiles/NoirServer.dir/source/services/chat_service.cpp.o -c /home/hvv7u7/Projects/noir-server/server/source/services/chat_service.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/server/source/services/chat_service.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir/source/services/chat_service.cpp.o"
+},
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/hvv7u7/Projects/noir-server/server/include -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=server/CMakeFiles/NoirServer.dir/source/services/connection_manager.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o server/CMakeFiles/NoirServer.dir/source/services/connection_manager.cpp.o -c /home/hvv7u7/Projects/noir-server/server/source/services/connection_manager.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/server/source/services/connection_manager.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir/source/services/connection_manager.cpp.o"
+},
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/hvv7u7/Projects/noir-server/server/include -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=server/CMakeFiles/NoirServer.dir/source/services/session_manager.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o server/CMakeFiles/NoirServer.dir/source/services/session_manager.cpp.o -c /home/hvv7u7/Projects/noir-server/server/source/services/session_manager.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/server/source/services/session_manager.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir/source/services/session_manager.cpp.o"
+},
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/hvv7u7/Projects/noir-server/server/include -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=server/CMakeFiles/NoirServer.dir/source/routes/server_router.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o server/CMakeFiles/NoirServer.dir/source/routes/server_router.cpp.o -c /home/hvv7u7/Projects/noir-server/server/source/routes/server_router.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/server/source/routes/server_router.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir/source/routes/server_router.cpp.o"
+},
+{
+  "directory": "/home/hvv7u7/Projects/noir-server/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/hvv7u7/Projects/noir-server/server/include -I/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=server/CMakeFiles/NoirServer.dir/source/db/database.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o server/CMakeFiles/NoirServer.dir/source/db/database.cpp.o -c /home/hvv7u7/Projects/noir-server/server/source/db/database.cpp",
+  "file": "/home/hvv7u7/Projects/noir-server/server/source/db/database.cpp",
+  "output": "/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir/source/db/database.cpp.o"
+}
+]

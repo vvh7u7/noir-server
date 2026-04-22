@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hvv7u7/Projects/noir-server/build/cmake_install.cmake",
+		"/home/hvv7u7/Projects/noir-server/build/libs/noir-protocol/cmake_install.cmake",
+		"/home/hvv7u7/Projects/noir-server/build/server/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

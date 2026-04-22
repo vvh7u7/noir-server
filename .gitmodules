@@ -1,0 +1,3 @@
+[submodule "lib/noir-protocol"]
+	path = libs/noir-protocol
+	url = https://github.com/vvh7u7/noir-protocol.git

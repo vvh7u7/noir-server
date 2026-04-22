@@ -1,0 +1,61 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/hvv7u7/Projects/noir-server/build/server",
+	"dir-cur-src" : "/home/hvv7u7/Projects/noir-server/server",
+	"dir-top-bld" : "/home/hvv7u7/Projects/noir-server/build",
+	"dir-top-src" : "/home/hvv7u7/Projects/noir-server",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/hvv7u7/Projects/noir-server/server/include",
+		"/home/hvv7u7/Projects/noir-server/libs/noir-protocol/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/hvv7u7/Projects/noir-server/build/server/CMakeFiles/NoirServer.dir",
+	"sources" : 
+	{
+		"server/CMakeFiles/NoirServer.dir/source/db/database.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/server/source/db/database.cpp"
+		},
+		"server/CMakeFiles/NoirServer.dir/source/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/server/source/main.cpp"
+		},
+		"server/CMakeFiles/NoirServer.dir/source/routes/server_router.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/server/source/routes/server_router.cpp"
+		},
+		"server/CMakeFiles/NoirServer.dir/source/services/auth_service.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/server/source/services/auth_service.cpp"
+		},
+		"server/CMakeFiles/NoirServer.dir/source/services/chat_service.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/server/source/services/chat_service.cpp"
+		},
+		"server/CMakeFiles/NoirServer.dir/source/services/connection_manager.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/server/source/services/connection_manager.cpp"
+		},
+		"server/CMakeFiles/NoirServer.dir/source/services/session_manager.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/hvv7u7/Projects/noir-server/server/source/services/session_manager.cpp"
+		}
+	}
+}
