@@ -7,6 +7,8 @@
 
 
 int main(int argc, char *argv[]) {
+    const char* port = std::getenv("PORT");
+
     Database::init();
 
     crow::SimpleApp app;
@@ -24,7 +26,8 @@ int main(int argc, char *argv[]) {
         ServerRouter::handle(conn, data);
     });
 
-    app.bindaddr("0.0.0.0").port(0).multithreaded().run();
-
-    std::cout << "RAW: " << data << std::endl;
+    app.port(std::stoi(port ? port : "8080"))
+    .bindaddr("0.0.0.0")
+    .multithreaded()
+    .run();
 };
