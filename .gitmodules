@@ -1,3 +1,6 @@
 [submodule "lib/noir-protocol"]
 	path = libs/noir-protocol
 	url = https://github.com/vvh7u7/noir-protocol.git
+[submodule "libs/crow"]
+	path = libs/crow
+	url = https://github.com/CrowCpp/Crow.git
