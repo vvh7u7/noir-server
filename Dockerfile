@@ -37,7 +37,7 @@ RUN cmake -B build -S . -G Ninja \
 # =========================
 # Runtime stage
 # =========================
-FROM debian:bookworm-slim
+FROM gcc:14
 
 WORKDIR /app
 
